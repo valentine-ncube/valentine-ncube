@@ -18,17 +18,11 @@ I enjoy problem-solving, collaborating in Agile teams, and continuously learning
 ### 🔨 Selected Projects
 
 **📍 TradeMe Watchlist App**  
-[🔗 GitHub Repo](https://github.com/valentine-ncube/trademe-watchlist-phase2)  
-A full-stack MERN app that allows users to view and manage a personalised Trade Me watchlist. Connected to a real backend API with MongoDB, featuring clean component-based React architecture and responsive design.
-
-**🤖 AI Mock Interview Tool**  
-[🔗 GitHub Repo](https://github.com/valentine-ncube/mock-interview-gemini)  
-A React app integrated with Google Gemini AI to simulate job interview questions and responses. Uses prompt engineering and provides a user-friendly interface for generating practice answers.
-
-**📦 Vehicle Identification App**  
-[🔗 GitHub Repo](https://github.com/valentine-ncube/vehicle-id-app)  
-A frontend app that uses the Google Cloud Vision API to identify vehicle models and details from uploaded images. Built with React, focusing on component reusability and image handling.
-
+[🔗 GitHub Repo](https://github.com/SethSamuelCode/MissionReadyLvl5-mission5-P2)  
+A full-stack MERN app that allows users to view and manage Trade Me auction listings. 
+My role: I was responsible for developing the Watchlist page. I handled the frontend integration with the backend API, rendered dynamic auction item components using React, and ensured the UI was responsive and consistent with the UX prototype. 
+ 
+Stack: React, Node.js, Express, MongoDB, GitHub, Docker 
 ---
 
 ### 📂 More Projects
